@@ -1,2 +1,2 @@
-# selenium
-selemiun excercise
+pip install selenium
+brew install geckodriver
